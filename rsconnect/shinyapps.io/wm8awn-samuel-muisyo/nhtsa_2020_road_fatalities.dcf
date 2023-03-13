@@ -1,0 +1,13 @@
+name: nhtsa_2020_road_fatalities
+title: nhtsa_2020_road_fatalities
+username:
+account: wm8awn-samuel-muisyo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7390442
+bundleId: 6432753
+url: https://wm8awn-samuel-muisyo.shinyapps.io/nhtsa_2020_road_fatalities/
+when: 1666562978.6799
+lastSyncTime: 1666562978.67991
+asMultiple: FALSE
+asStatic: FALSE
