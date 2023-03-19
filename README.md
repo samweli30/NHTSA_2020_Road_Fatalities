@@ -1,4 +1,4 @@
-# NHTSA_2020_Road_Fatalities
+# NHTSA 2020 Road Fatalities
 
 ## Project Context
 This repository is the detail of the work I completed for a Data Science assignement, the assignment goal was to use open data to tell a story using R. The data selected was 2020 NHTSA Crash Data to show road safety differences in different US states.
